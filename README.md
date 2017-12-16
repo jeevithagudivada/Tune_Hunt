@@ -71,11 +71,13 @@ passport.use(new GoogleStrategy({
 
 - Installation is complete. Navigate to folder where server.js file is located and enter the following into command prompt:
 Running the Web Application
-
+`````
 $ mongod
+``````
+``````
 $ node server.js
+```````
+`````
 open http://localhost:3000 in browser
-
-
 ```
 
