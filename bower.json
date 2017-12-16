@@ -1,0 +1,26 @@
+{
+    "name": "tunehunt",
+    "description": "mean stack application",
+    "main": "server.js",
+    "authors": [
+      "sumantphegde <sumantita@gmail.com>"
+    ],
+    "license": "ISC",
+    "homepage": "",
+    "private": true,
+    "ignore": [
+      "**/.*",
+      "node_modules",
+      "bower_components",
+      "test",
+      "tests"
+    ],
+    "dependencies": {
+      "angular-route": "^1.6.7",
+      "angularjs-geolocation": "^0.1.1",
+      "bootstrap": "^3.3.7",
+      "modernizr": "^3.5.0",
+      "holderjs": "^2.9.4",
+      "jquery": "^3.2.1"
+    }
+  }
